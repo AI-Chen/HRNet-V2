@@ -1,4 +1,4 @@
-# HRNet-V2进行语义分割的tensoflow实现
+# HRNet-V2进行语义分割的tensorflow实现
 ## 文件简介
 **utils文件夹**中包含*color_utils.py、data_utils.py、HighResolutionModule.py、Models_Block.py、Models_Config.py*.
 1. *color_utils.py、data_utils.py*是进行数据预处理的功能函数；
