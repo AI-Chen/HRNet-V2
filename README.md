@@ -10,8 +10,7 @@
 + **HRNet v2_Train.py**是运用模型进行训练的文件。
 ## Getting started
 1. 数据集使用已经经过预处理适合本模型进行训练的ISPRS 2D Vaihingen数据集。下载地址[百度网盘](链接：https://pan.baidu.com/s/1RqjWXTZOCPO4cRkW6SVglA 
-提取码：cslj 
-复制这段内容后打开百度网盘手机App，操作更方便哦)。下载后解压至文件根目录；
+提取码：cslj)。下载后解压至文件根目录；
 2. 在根目录新建文件夹，命名为：ckpts。该文件夹用于存储cpkt文件； 
 3. 运行HRNet v2_Train.py即可开始模型的训练。
 ## Dependency
