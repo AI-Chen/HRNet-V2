@@ -9,10 +9,10 @@
 + **Model.py**是HRNet v2模型的实现
 + **HRNet v2_Train.py**是运用模型进行训练的文件。
 ## Getting started
-1. 数据集使用已经经过预处理适合本模型进行训练的ISPRS 2D Vaihingen数据集。下载地址[百度网盘](超链接地址 "分享码：")。现在后解压至文件根目录；
-2. 在根目录新建文件夹，命名为：ckpts；
+1. 数据集使用已经经过预处理适合本模型进行训练的ISPRS 2D Vaihingen数据集。下载地址[百度网盘](超链接地址 "分享码：")。下载后解压至文件根目录；
+2. 在根目录新建文件夹，命名为：ckpts。该文件夹用于存储cpkt文件； 
 3. 运行HRNet v2_Train.py即可开始模型的训练。
 ## Dependency
-tensorflow==1.8.0
-numpy==1.15.2
-opencv3==3.1.0
++ tensorflow==1.8.0
++ numpy==1.15.2
++ opencv3==3.1.0
